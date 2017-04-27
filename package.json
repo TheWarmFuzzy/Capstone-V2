@@ -1,0 +1,15 @@
+{
+  "name": "Undecided",
+  "version": "0.0.0",
+  "description": "Using the knowledge gained during the first development cycle, lets do it better.",
+  "engines": {
+    "node": "v7.4.0"
+  },
+  "dependencies": {
+    "express": "^4.15.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TheWarmFuzzy/Capstone-V2"
+  }
+}
