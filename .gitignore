@@ -1,0 +1,13 @@
+#Ignore everything
+*
+
+#Git
+!.gitignore
+
+#Server
+!install.bat
+!package.json
+!server.js
+
+
+#Client
