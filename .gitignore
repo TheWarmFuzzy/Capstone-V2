@@ -9,5 +9,8 @@
 !package.json
 !server.js
 
+!lib
+!lib/app.js
+!lib/console_extended.js
 
 #Client
